@@ -1,0 +1,13 @@
+[INFO ] 2022-06-09 13:07:30.968 [main] Base - driver is been initialized
+[INFO ] 2022-06-09 13:07:39.363 [main] Base - site url is been navigated
+[INFO ] 2022-06-09 13:07:39.484 [main] Base - browser window is been maximized
+[INFO ] 2022-06-09 13:07:39.803 [main] Base - first name entered into firstname field
+[INFO ] 2022-06-09 13:07:39.958 [main] Base - last name entered into lastname field
+[INFO ] 2022-06-09 13:07:40.135 [main] Base - male radio is enabled
+[INFO ] 2022-06-09 13:07:43.328 [main] Base - one year experience radio is enabled
+[INFO ] 2022-06-09 13:07:46.435 [main] Base - date is been entered into date field
+[INFO ] 2022-06-09 13:07:46.556 [main] Base - Automation checkbox is enabled as profession
+[INFO ] 2022-06-09 13:07:49.913 [main] Base - selenium check box is enabled as tool
+[INFO ] 2022-06-09 13:07:52.987 [main] Base - asia option is selected as continent
+[INFO ] 2022-06-09 13:07:59.120 [main] Base - file is been uploaded
+[INFO ] 2022-06-09 13:07:59.167 [main] Base - file is been downloaded

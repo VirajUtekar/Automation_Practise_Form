@@ -1,0 +1,40 @@
+[INFO ] 2022-06-10 11:33:22.601 [main] Base - driver is been initialized
+[INFO ] 2022-06-10 11:33:31.191 [main] Base - site url is been navigated
+[INFO ] 2022-06-10 11:33:31.324 [main] Base - browser window is been maximized
+[INFO ] 2022-06-10 11:33:31.576 [main] Base - first name entered into firstname field
+[INFO ] 2022-06-10 11:33:31.661 [main] Base - last name entered into lastname field
+[INFO ] 2022-06-10 11:33:31.779 [main] Base - male radio is enabled
+[INFO ] 2022-06-10 11:33:34.890 [main] Base - one year experience radio is enabled
+[INFO ] 2022-06-10 11:33:37.959 [main] Base - date is been entered into date field
+[INFO ] 2022-06-10 11:33:38.049 [main] Base - Automation checkbox is enabled as profession
+[INFO ] 2022-06-10 11:33:41.235 [main] Base - selenium check box is enabled as tool
+[INFO ] 2022-06-10 11:33:44.307 [main] Base - asia option is selected as continent
+[INFO ] 2022-06-10 11:33:50.481 [main] Base - file is been uploaded
+[INFO ] 2022-06-10 11:33:50.531 [main] Base - file is been downloaded
+[INFO ] 2022-06-10 11:33:53.446 [main] Base - form submit button is been clicked
+[INFO ] 2022-06-10 11:35:25.185 [main] Base - driver is been initialized
+[INFO ] 2022-06-10 11:35:33.393 [main] Base - site url is been navigated
+[INFO ] 2022-06-10 11:35:33.527 [main] Base - browser window is been maximized
+[INFO ] 2022-06-10 11:35:34.525 [main] Base - driver is been initialized
+[INFO ] 2022-06-10 11:35:42.464 [main] Base - site url is been navigated
+[INFO ] 2022-06-10 11:35:42.594 [main] Base - browser window is been maximized
+[INFO ] 2022-06-10 11:35:42.900 [TestNG-test=Test-2] Base - first name entered into firstname field
+[INFO ] 2022-06-10 11:35:42.955 [TestNG-test=Test-1] Base - first name entered into firstname field
+[INFO ] 2022-06-10 11:35:43.041 [TestNG-test=Test-2] Base - last name entered into lastname field
+[INFO ] 2022-06-10 11:35:43.091 [TestNG-test=Test-1] Base - last name entered into lastname field
+[INFO ] 2022-06-10 11:35:43.226 [TestNG-test=Test-2] Base - male radio is enabled
+[INFO ] 2022-06-10 11:35:43.304 [TestNG-test=Test-1] Base - male radio is enabled
+[INFO ] 2022-06-10 11:35:46.364 [TestNG-test=Test-2] Base - one year experience radio is enabled
+[INFO ] 2022-06-10 11:35:46.484 [TestNG-test=Test-1] Base - one year experience radio is enabled
+[INFO ] 2022-06-10 11:35:49.466 [TestNG-test=Test-2] Base - date is been entered into date field
+[INFO ] 2022-06-10 11:35:49.575 [TestNG-test=Test-1] Base - date is been entered into date field
+[INFO ] 2022-06-10 11:35:49.609 [TestNG-test=Test-2] Base - Automation checkbox is enabled as profession
+[INFO ] 2022-06-10 11:35:49.690 [TestNG-test=Test-1] Base - Automation checkbox is enabled as profession
+[INFO ] 2022-06-10 11:35:52.767 [TestNG-test=Test-2] Base - selenium check box is enabled as tool
+[INFO ] 2022-06-10 11:35:52.824 [TestNG-test=Test-1] Base - selenium check box is enabled as tool
+[INFO ] 2022-06-10 11:35:55.860 [TestNG-test=Test-2] Base - asia option is selected as continent
+[INFO ] 2022-06-10 11:35:55.890 [TestNG-test=Test-1] Base - asia option is selected as continent
+[INFO ] 2022-06-10 11:36:01.988 [TestNG-test=Test-2] Base - file is been uploaded
+[INFO ] 2022-06-10 11:36:02.043 [TestNG-test=Test-1] Base - file is been uploaded
+[INFO ] 2022-06-10 11:36:02.055 [TestNG-test=Test-2] Base - file is been downloaded
+[INFO ] 2022-06-10 11:36:02.102 [TestNG-test=Test-1] Base - file is been downloaded
